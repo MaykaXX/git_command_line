@@ -1,0 +1,13 @@
+# Build files
+*.exe
+*.o
+*.obj
+*.out
+
+# Visual Studio
+.vs/
+*.log
+
+# OS
+Thumbs.db
+
